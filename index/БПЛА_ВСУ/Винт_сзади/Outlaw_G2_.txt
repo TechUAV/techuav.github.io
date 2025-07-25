@@ -1,9 +1,0 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.6
-Creation-Date: 2025-07-24T23:04:48+03:00
-====== Outlaw G2  ======
-Outlaw G2 
-(изначально предназначен, как мишень, переоборудуется в ударный)
-{{../../../photos/photo48825012025234304.jpg}}
-{{../../../photos/photo48925012025234304.jpg}}
-{{../../../photos/photo49025012025234304.jpg}}

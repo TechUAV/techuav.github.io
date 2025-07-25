@@ -1,9 +1,0 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.6
-Creation-Date: 2025-07-24T23:04:48+03:00
-====== WARMATE 3.0 ======
-WARMATE 3.0
-{{../../../photos/photo17718012025235747.jpg}}
-{{../../../photos/photo17818012025235747.jpg}}
-{{../../../photos/photo17918012025235747.jpg}}
-{{../../../photos/photo18018012025235747.jpg}}

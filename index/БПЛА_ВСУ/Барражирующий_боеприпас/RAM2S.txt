@@ -1,8 +1,0 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.6
-Creation-Date: 2025-07-24T23:04:48+03:00
-====== RAM-2S ======
-RAM-2S
-{{../../../photos/photo18719012025001113.jpg}}
-{{../../../photos/photo18819012025001113.jpg}}
-{{../../../photos/photo18919012025001113.jpg}}

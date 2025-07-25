@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-07-24T23:04:48+03:00
+====== LELEKA-100 VTOL ======
+LELEKA-100 VTOL
+
+РАЗВЕДЫВАТЕЛЬНЫЙ
+{{../photo24519012025152400.jpg}}
+{{../photo24619012025152400.jpg}}
+{{../photo24719012025152400.jpg}}

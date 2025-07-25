@@ -1,9 +1,0 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.6
-Creation-Date: 2025-07-24T23:04:48+03:00
-====== PUMA AE RQ-20 ======
-PUMA AE RQ-20
-
-РАЗВЕДЫВАТЕЛЬНЫЙ
-{{../../../photos/photo11218012025192826.jpg}}
-{{../../../photos/photo11318012025192826.jpg}}
