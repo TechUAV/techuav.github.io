@@ -3,6 +3,6 @@ Wiki-Format: zim 0.6
 Creation-Date: 2025-07-24T23:04:48+03:00
 ====== WARMATE 2.0 ======
 WARMATE 2.0
-{{../photo18119012025000243.jpg}}
-{{../photo18219012025000243.jpg}}
-{{../photo18319012025000243.jpg}}
+{{../photos/photo_181@19-01-2025_00-02-43.jpg}}
+{{../photos/photo_182@19-01-2025_00-02-43.jpg}}
+{{../photos/photo_183@19-01-2025_00-02-43.jpg}}
