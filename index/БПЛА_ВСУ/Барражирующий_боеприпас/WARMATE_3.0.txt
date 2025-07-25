@@ -3,7 +3,7 @@ Wiki-Format: zim 0.6
 Creation-Date: 2025-07-24T23:04:48+03:00
 ====== WARMATE 3.0 ======
 WARMATE 3.0
-{{../../../photos/photo_17718-01-2025_23-57-47.jpg}}
-{{../../../photos/photo_17818-01-2025_23-57-47.jpg}}
-{{../../../photos/photo_17918-01-2025_23-57-47.jpg}}
-{{../../../photos/photo_18018-01-2025_23-57-47.jpg}}
+{{../../../photos/photo17718012025235747.jpg}}
+{{../../../photos/photo17818012025235747.jpg}}
+{{../../../photos/photo17918012025235747.jpg}}
+{{../../../photos/photo18018012025235747.jpg}}

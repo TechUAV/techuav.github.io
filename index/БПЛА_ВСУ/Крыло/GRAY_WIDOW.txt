@@ -7,7 +7,7 @@ GRAY WIDOW
  GRAY WIDOW 2M
 
 УДАРНЫЙ
-{{../../../photos/photo_4318-01-2025_14-58-39.jpg}}
-{{../../../photos/photo_4418-01-2025_14-58-39.jpg}}
-{{../../../photos/photo_4518-01-2025_14-58-39.jpg}}
-{{../../../photos/photo_4618-01-2025_14-58-39.jpg}}
+{{../../../photos/photo4318012025145839.jpg}}
+{{../../../photos/photo4418012025145839.jpg}}
+{{../../../photos/photo4518012025145839.jpg}}
+{{../../../photos/photo4618012025145839.jpg}}
