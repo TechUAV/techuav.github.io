@@ -1,0 +1,108 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-07-24T23:04:48+03:00
+====== [ ======
+[
+  "ОГЛАВЛЕНИЕ \n\nI. ",
+  {
+    "type": "text_link",
+    "text": "БПЛА ТИП «КРЫЛО»;",
+    "href": "https://t.me/techuav/33"
+  },
+  " <- переход в другой раздел\nII. ",
+  {
+    "type": "text_link",
+    "text": "БПЛА САМОЛЕТНОГО ТИПА, ВИНТ СПЕРЕДИ;",
+    "href": "https://t.me/techuav/143"
+  },
+  " <- переход в другой раздел\nIII. ",
+  {
+    "type": "text_link",
+    "text": "БПЛА САМОЛЕТНОГО ТИПА, ВИНТ СЗАДИ;",
+    "href": "https://t.me/techuav/242"
+  },
+  " <- переход в другой раздел\nIV.  ",
+  {
+    "type": "text_link",
+    "text": "БПЛА САМОЛЕТНОГО ТИПА, ДВУХ КИЛЕВЫЕ;",
+    "href": "https://t.me/techuav/279"
+  },
+  " <- переход в другой раздел\nV. ",
+  {
+    "type": "text_link",
+    "text": "БАРРАЖИРУЮЩИЕ БОЕПРИПАСЫ:",
+    "href": "https://t.me/techuav/280"
+  },
+  "\n 1. ",
+  {
+    "type": "text_link",
+    "text": "WARMATE 3.0 (Вармэйт);",
+    "href": "https://t.me/techuav/280/281"
+  },
+  "\n 2. ",
+  {
+    "type": "text_link",
+    "text": "WARMATE 2.0 (Вармэйт);",
+    "href": "https://t.me/techuav/280/285"
+  },
+  "\n 3. ",
+  {
+    "type": "text_link",
+    "text": "RAM-2 (Рам);",
+    "href": "https://t.me/techuav/280/295"
+  },
+  "\n 4. ",
+  {
+    "type": "text_link",
+    "text": "RAM-2S (Рам);",
+    "href": "https://t.me/techuav/280/298"
+  },
+  "\n 5. ",
+  {
+    "type": "text_link",
+    "text": "RAM (Рам);",
+    "href": "https://t.me/techuav/280/301"
+  },
+  "\n 6. ",
+  {
+    "type": "text_link",
+    "text": "LOK (Локи)I;",
+    "href": "https://t.me/techuav/280/304"
+  },
+  "\n 7. ",
+  {
+    "type": "text_link",
+    "text": "Оса (Королева Шершней);",
+    "href": "https://t.me/techuav/280/2291"
+  },
+  "\n 8. ",
+  {
+    "type": "text_link",
+    "text": "HF-1 (ШФ);",
+    "href": "https://t.me/techuav/280/2300"
+  },
+  "\n 9. ",
+  {
+    "type": "text_link",
+    "text": "Не идентифицирован;",
+    "href": "https://t.me/techuav/280/2308"
+  },
+  "\n 10. ",
+  {
+    "type": "text_link",
+    "text": "Switchblade 600 (Свитчблейд);",
+    "href": "https://t.me/techuav/280/2549"
+  },
+  "\nVI. ",
+  {
+    "type": "text_link",
+    "text": "VTOL (ВЕРТИКАЛЬНЫЙ ВЗЛЕТ/ПОСАДКА, МНОГОВИНТОВЫЕ).",
+    "href": "https://t.me/techuav/388"
+  },
+  " <- переход в другой раздел\n\n",
+  {
+    "type": "bold",
+    "text": "Все пункты кликабельны"
+  },
+  ""
+]
