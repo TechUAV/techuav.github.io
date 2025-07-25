@@ -1,7 +1,0 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.6
-Creation-Date: 2025-07-24T15:47:43+03:00
-
-====== JUPITER H1 C ======
-Created Четверг 24 июля 2025
-

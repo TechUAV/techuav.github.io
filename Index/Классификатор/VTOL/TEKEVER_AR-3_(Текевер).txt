@@ -1,7 +1,0 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.6
-Creation-Date: 2025-07-24T15:46:37+03:00
-
-====== TEKEVER AR-3 (Текевер) ======
-Created Четверг 24 июля 2025
-

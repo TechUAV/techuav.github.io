@@ -1,0 +1,263 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-07-24T23:04:48+03:00
+====== [ ======
+[
+  "ОГЛАВЛЕНИЕ\n\nI. ",
+  {
+    "type": "text_link",
+    "text": "БПЛА ТИПА «КРЫЛО»;",
+    "href": "https://t.me/techuav/33"
+  },
+  " <- переход в другой раздел\nII. ",
+  {
+    "type": "text_link",
+    "text": "БПЛА САМОЛЕТНОГО ТИПА, ВИНТ СПЕРЕДИ:",
+    "href": "https://t.me/techuav/143"
+  },
+  "\n 1. ",
+  {
+    "type": "text_link",
+    "text": "UJ-22 AIRBORNE (Эйрбон);",
+    "href": "https://t.me/techuav/143/146"
+  },
+  "\n 2. ",
+  {
+    "type": "text_link",
+    "text": "UA-BETA (Бета);",
+    "href": "https://t.me/techuav/143/152"
+  },
+  "\n 3. ",
+  {
+    "type": "text_link",
+    "text": "COBRA (Кобра);",
+    "href": "https://t.me/techuav/143/155"
+  },
+  "\n 4. ",
+  {
+    "type": "text_link",
+    "text": "SPECTATOR-M1 (Спектатор);",
+    "href": "https://t.me/techuav/143/161"
+  },
+  "\n 5. ",
+  {
+    "type": "text_link",
+    "text": "THOR (Тор);",
+    "href": "https://t.me/techuav/143/164"
+  },
+  "\n 6. ",
+  {
+    "type": "text_link",
+    "text": "SKYNETUA (СкайНетЮА);",
+    "href": "https://t.me/techuav/143/170"
+  },
+  "\n 7. ",
+  {
+    "type": "text_link",
+    "text": "ЩЕДРИК;",
+    "href": "https://t.me/techuav/143/173"
+  },
+  "\n 8. ",
+  {
+    "type": "text_link",
+    "text": "СИЧ;",
+    "href": "https://t.me/techuav/143/176"
+  },
+  "\n 9. ",
+  {
+    "type": "text_link",
+    "text": "БШ 20;",
+    "href": "https://t.me/techuav/143/179"
+  },
+  "\n 10. ",
+  {
+    "type": "text_link",
+    "text": "РУБАКА;",
+    "href": "https://t.me/techuav/143/180"
+  },
+  "\n 11. ",
+  {
+    "type": "text_link",
+    "text": "RQ-35 HEIDRUN (Хеидран);",
+    "href": "https://t.me/techuav/143/183"
+  },
+  "\n 12. ",
+  {
+    "type": "text_link",
+    "text": "PUNISHER (Пунишер);",
+    "href": "https://t.me/techuav/143/188"
+  },
+  "\n 13. ",
+  {
+    "type": "text_link",
+    "text": "PAMA (Рама, Пама);",
+    "href": "https://t.me/techuav/143/191"
+  },
+  "\n 14. ",
+  {
+    "type": "text_link",
+    "text": "PUMA LE ",
+    "href": "https://t.me/techuav/143/195"
+  },
+  {
+    "type": "text_link",
+    "text": "(Пума);",
+    "href": "https://t.me/techuav/143/191"
+  },
+  "\n 15. ",
+  {
+    "type": "text_link",
+    "text": "PUMA AE RQ-20 (Пума);",
+    "href": "https://t.me/techuav/143/198"
+  },
+  "\n 16. ",
+  {
+    "type": "text_link",
+    "text": "ОГР;",
+    "href": "https://t.me/techuav/143/201"
+  },
+  "\n 17. ",
+  {
+    "type": "text_link",
+    "text": "ПРИВИД С1;",
+    "href": "https://t.me/techuav/143/204"
+  },
+  "\n 18. ",
+  {
+    "type": "text_link",
+    "text": "CORVO PPDS (Корво ППДС);",
+    "href": "https://t.me/techuav/143/207"
+  },
+  "\n 19. ",
+  {
+    "type": "text_link",
+    "text": "DARTS (Дарц);",
+    "href": "https://t.me/techuav/143/211"
+  },
+  "\n 20. ",
+  {
+    "type": "text_link",
+    "text": "FLYEYE (Флайе);",
+    "href": "https://t.me/techuav/143/215"
+  },
+  "\n 21. ",
+  {
+    "type": "text_link",
+    "text": "ELF (Ельф);",
+    "href": "https://t.me/techuav/143/218"
+  },
+  "\n 22. ",
+  {
+    "type": "text_link",
+    "text": "GOR (Гор);",
+    "href": "https://t.me/techuav/143/221"
+  },
+  "\n 23. ",
+  {
+    "type": "text_link",
+    "text": "SPARROW LE (Спэрроу);",
+    "href": "https://t.me/techuav/143/224"
+  },
+  "\n 24. ",
+  {
+    "type": "text_link",
+    "text": "ХАКИ-20;",
+    "href": "https://t.me/techuav/143/227"
+  },
+  "\n 25. ",
+  {
+    "type": "text_link",
+    "text": "МАРА 2;",
+    "href": "https://t.me/techuav/143/230"
+  },
+  "\n 26. ",
+  {
+    "type": "text_link",
+    "text": "КИЕВСКАЯ РУСЬ;",
+    "href": "https://t.me/techuav/143/233"
+  },
+  "\n 27. ",
+  {
+    "type": "text_link",
+    "text": "MINI SHARK (мини шарк);",
+    "href": "https://t.me/techuav/143/236"
+  },
+  "\n 28. ",
+  {
+    "type": "text_link",
+    "text": "OBSERVER-S (обсервер);",
+    "href": "https://t.me/techuav/143/239"
+  },
+  "\n 29. ",
+  {
+    "type": "text_link",
+    "text": "Не идентифицирован;",
+    "href": "https://t.me/techuav/143/2330"
+  },
+  "\n 30. ",
+  {
+    "type": "text_link",
+    "text": "LORD (лорд);",
+    "href": "https://t.me/techuav/143/2336"
+  },
+  "\n 31. ",
+  {
+    "type": "text_link",
+    "text": "DISTRACTOR (дистрактор);",
+    "href": "https://t.me/techuav/143/2358"
+  },
+  "\n 32. ",
+  {
+    "type": "text_link",
+    "text": "комплекс «ВЕТРОГОН»;",
+    "href": "https://t.me/techuav/143/2369"
+  },
+  "\n 33. ",
+  {
+    "type": "text_link",
+    "text": "RAYBIRD-3 (пэйбёрд);",
+    "href": "https://t.me/techuav/143/2373"
+  },
+  "\n 34. ",
+  {
+    "type": "text_link",
+    "text": "REX (рэкс);",
+    "href": "https://t.me/techuav/143/2546"
+  },
+  "\n 35. ",
+  {
+    "type": "text_link",
+    "text": "Труболёты;",
+    "href": "https://t.me/techuav/143/2551"
+  },
+  "\nIII. ",
+  {
+    "type": "text_link",
+    "text": "БПЛА САМОЛЕТНОГО ТИПА, ВИНТ СЗАДИ;",
+    "href": "https://t.me/techuav/242"
+  },
+  " <- переход в другой раздел\nIV.  ",
+  {
+    "type": "text_link",
+    "text": "БПЛА САМОЛЕТНОГО ТИПА, ДВУХ КИЛЕВЫЕ;",
+    "href": "https://t.me/techuav/279"
+  },
+  " <- переход в другой раздел\nV. ",
+  {
+    "type": "text_link",
+    "text": "БАРРАЖИРУЮЩИЕ БОЕПРИПАСЫ;",
+    "href": "https://t.me/techuav/280"
+  },
+  " <- переход в другой раздел\nVI. ",
+  {
+    "type": "text_link",
+    "text": "VTOL (ВЕРТИКАЛЬНЫЙ ВЗЛЕТ/ПОСАДКА, МНОГОВИНТОВЫЕ).",
+    "href": "https://t.me/techuav/388"
+  },
+  " <- переход в другой раздел \n\n\n",
+  {
+    "type": "bold",
+    "text": "Все пункты кликабельны"
+  },
+  ""
+]
