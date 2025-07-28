@@ -1,0 +1,51 @@
+ol {
+    list-style-position: inside;
+    padding-left: 0;
+}
+ol.articles-list {
+    list-style-type: decimal;
+}
+
+ol.topics-list {
+    list-style-type: circle;
+}
+
+h1 {
+    font-size: 20px;
+}
+
+li {
+}
+
+img {
+    max-width: 100%;
+    display: block;
+    margin: 12px;
+}
+
+.left-menu  {
+    background: #eee;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+.footer {
+    margin-top: 10px;
+    border-top: 2px dashed #ccc;
+    padding: 10px;
+}
+
+.content-body {
+    padding-bottom: 20px;
+}
+
+a {
+    display: inline-block;
+    color: rgba(0,144,215,1.0);
+    text-decoration: underline;
+}
+
+.left-menu a {
+    display: inline;
+    text-decoration: none;
+}
