@@ -11,11 +11,8 @@ ol.topics-list {
 }
 
 .biglink {
+    font-weight: bold;
     font-size: 140%;
-}
-
-h1 {
-    font-size: 20px;
 }
 
 li {
@@ -27,8 +24,12 @@ img {
     margin: 12px;
 }
 
+.hr {
+    color: #666;
+}
+
 .left-menu  {
-    background: #eee;
+    background: #ddd;
     border-radius: 20px;
     padding: 20px;
 }
@@ -42,6 +43,8 @@ img {
 .content-body {
     padding-bottom: 20px;
 }
+
+body {margin-top: 16px;}
 
 a {
     display: inline-block;
