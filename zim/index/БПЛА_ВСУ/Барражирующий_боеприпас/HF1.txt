@@ -1,7 +1,0 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.6
-Creation-Date: 2025-07-24T23:04:48+03:00
-====== HF-1 ======
-HF-1
-{{../../../../photos/photo_468@25-01-2025_23-17-34.jpg}}
-{{../../../../photos/photo_469@25-01-2025_23-17-34.jpg}}
