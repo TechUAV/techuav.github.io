@@ -10,12 +10,14 @@ ol.topics-list {
     list-style-type: circle;
 }
 
+.included-article {
+    border: 1px dashed black;
+    padding: 10px;
+    margin: 10px 0px 10px;
+}
 .biglink {
     font-weight: bold;
     font-size: 140%;
-}
-
-li {
 }
 
 img {
@@ -24,8 +26,35 @@ img {
     margin: 12px;
 }
 
+a.external {
+    color: red;
+}
+
 .hr {
     color: #666;
+}
+
+.file-attachement {
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-size: 20px 20px;
+    height: 32px;
+    background-position: 3px 6px;
+    background-color: lightyellow;
+    border-radius: 3px;
+    padding: 3px 3px 3px 28px;
+    margin-left: 6px;
+    margin-right: 6px;
+}
+.icon-cloud {
+    background-image: url('../resources/mailru.png');
+}
+.icon-local {
+    background-image: url('../resources/local.jpg');
+}
+
+.icon-telegram {
+    background-image: url('../resources/telegram.png');
 }
 
 .left-menu  {
@@ -44,7 +73,9 @@ img {
     padding-bottom: 20px;
 }
 
-body {margin-top: 16px;}
+body {
+    margin-top: 16px;
+}
 
 a {
     display: inline-block;
