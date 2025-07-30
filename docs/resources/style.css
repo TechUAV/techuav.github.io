@@ -1,3 +1,7 @@
+img {
+    max-width: 100%;
+}
+
 ol {
     list-style-position: inside;
     padding-left: 0;
@@ -11,10 +15,23 @@ ol.topics-list {
 }
 
 .included-article {
-    border: 1px dashed black;
-    padding: 10px;
-    margin: 10px 0px 10px;
+    border-radius: 12px;
+    border: 1px dashed #aaa;
+    padding: 20px;
+    margin: 20px;
 }
+.notice {
+    margin: 12px;
+    color: #999;
+    font-style: italic;
+    text-align: right;
+}
+
+.error {
+    background: lightcoral;
+    padding: 20px;
+}
+
 .biglink {
     font-weight: bold;
     font-size: 140%;
@@ -34,18 +51,23 @@ a.external {
     color: #666;
 }
 
-.file-attachement {
+.file-attachment {
     display: inline-block;
     background-repeat: no-repeat;
-    background-size: 20px 20px;
-    height: 32px;
+    background-size: 26px 26px;
+    min-height: 38px;
     background-position: 3px 6px;
     background-color: lightyellow;
+    border: 1px solid yellow;
     border-radius: 3px;
-    padding: 3px 3px 3px 28px;
-    margin-left: 6px;
-    margin-right: 6px;
+    padding: 6px 6px 6px 36px;
+    margin: 6px;
 }
+
+.file-attachment:first-child {
+    margin-left: 0;
+}
+
 .icon-cloud {
     background-image: url('../resources/mailru.png');
 }
@@ -63,10 +85,17 @@ a.external {
     padding: 20px;
 }
 
+.header {
+    border-bottom: 2px dashed #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
 .footer {
     margin-top: 10px;
+    padding-top: 10px;
     border-top: 2px dashed #ccc;
-    padding: 10px;
+    margin-bottom: 10px;
 }
 
 .content-body {
