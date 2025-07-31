@@ -6,6 +6,7 @@ ol {
     list-style-position: inside;
     padding-left: 0;
 }
+
 ol.articles-list {
     list-style-type: decimal;
 }
@@ -20,6 +21,7 @@ ol.topics-list {
     padding: 20px;
     margin: 20px;
 }
+
 .notice {
     margin: 12px;
     color: #999;
@@ -29,12 +31,18 @@ ol.topics-list {
 
 .error {
     background: lightcoral;
-    padding: 20px;
+    padding: 12px;
+    margin: 6px;
+    border-radius: 3px;
 }
 
 .biglink {
     font-weight: bold;
     font-size: 140%;
+}
+
+.gray {
+    color: #888;
 }
 
 img {
@@ -43,40 +51,32 @@ img {
     margin: 12px;
 }
 
-a.external {
-    color: red;
+.video img {
+    margin: 10px 10px 10px 0px;
 }
 
-.hr {
-    color: #666;
-}
-
-.file-attachment {
+.external-link {
+    padding: 12px;
+    margin: 12px 0px 12px 0px;
+    border: 1px solid red;
+    border-radius: 12px;
     display: inline-block;
+}
+
+.tg-link {
+    clear: both;
+    display: block;
     background-repeat: no-repeat;
     background-size: 26px 26px;
     min-height: 38px;
     background-position: 3px 6px;
-    background-color: lightyellow;
-    border: 1px solid yellow;
-    border-radius: 3px;
     padding: 6px 6px 6px 36px;
-    margin: 6px;
-}
-
-.file-attachment:first-child {
-    margin-left: 0;
-}
-
-.icon-cloud {
-    background-image: url('../resources/mailru.png');
-}
-.icon-local {
-    background-image: url('../resources/local.jpg');
-}
-
-.icon-telegram {
+    margin: 8px;
     background-image: url('../resources/telegram.png');
+}
+
+.hr {
+    color: #666;
 }
 
 .left-menu  {
@@ -86,9 +86,12 @@ a.external {
 }
 
 .header {
-    border-bottom: 2px dashed #ccc;
-    padding: 10px;
     margin-bottom: 10px;
+}
+
+.header-notice {
+    border: 2px dashed #ccc;
+    padding: 10px;
 }
 
 .footer {
@@ -109,10 +112,57 @@ body {
 a {
     display: inline-block;
     color: rgba(0,144,215,1.0);
-    text-decoration: underline;
+    text-decoration: none;
 }
 
 .left-menu a {
     display: inline;
     text-decoration: none;
+}
+
+.code {
+    padding: 12px;
+    margin: 4px 0px 4px;
+    border-radius: 3px;
+    background: #222;
+    color: #5cb85c;
+    font-family: monospace;
+}
+
+.mainlink {
+    font-weight: bold;
+    font-size: 120%;
+}
+
+/* files */
+
+.file-group {
+    margin: 12px 0px 12px;
+    border: 1px solid #eee;
+}
+
+.file-attachment {
+    clear: both;
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-size: 26px 26px;
+    min-height: 38px;
+    background-position: 3px 6px;
+    background-color: lightyellow;
+    border: 1px solid yellow;
+    border-radius: 3px;
+    padding: 6px 6px 6px 36px;
+    margin: 8px;
+}
+
+.icon-cloud {
+    background-image: url('../resources/mailru.png');
+}
+
+.icon-local {
+    background-image: url('../resources/local.jpg');
+}
+
+.icon-telegram {
+    background-image: url('../resources/telegram.png');
 }
