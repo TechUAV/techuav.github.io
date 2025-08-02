@@ -11,6 +11,25 @@ ol.articles-list {
     list-style-type: decimal;
 }
 
+.ref-quote {
+    margin: 20px;
+    padding: 20px;
+}
+.ref-subquote {
+    background: #eee;
+    padding: 6px;
+    margin: 6px;
+    border-radius: 6px;
+    border: 1px dashed #aaa;
+}
+
+.ref-source {
+    font-size: 65%;
+    color: #666;
+    text-align: right;
+}
+
+
 ol.topics-list {
     list-style-type: circle;
 }
